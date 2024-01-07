@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saicharan293
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Frontend Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...2493saicharan@gmail.com
 
