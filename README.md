@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saicharan293&label=Profile%20views&color=0e75b6&style=flat" alt="saicharan293" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Machine Learning and EDA**
 
-- 🌱 I’m currently learning **Frontend technologies and ML**
+- 🌱 I’m currently learning **EDA and Deep Learning**
 
 - 📫 How to reach me **2493saicharan@gmail.com**
 
