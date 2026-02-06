@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sai Charan Amudala</h1>
-<h3 align="center">a frontend virtuoso from India, develops immersive websites that captivate hearts and minds with each pixel-perfect stroke.</h3>
+<h3 align="center">a full stack virtuoso from India, develops immersive websites that captivate hearts and minds with each pixel-perfect stroke.</h3>
 <img align='right' alt='Coding' width=400 src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UEr18d6V6XqxEvhATlIDlbM7V4hctDDpAgno-nM6hQ&s'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saicharan293&label=Profile%20views&color=0e75b6&style=flat" alt="saicharan293" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning and EDA**
+- 🔭 I’m currently working on **Asp Dotnet MVC Core**
 
-- 🌱 I’m currently learning **EDA and Deep Learning**
+- 🌱 I’m currently learning **SOLID PRINCIPLES in Asp Dotnet MVC Core**
 
 - 📫 How to reach me **2493saicharan@gmail.com**
 
